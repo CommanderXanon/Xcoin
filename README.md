@@ -44,3 +44,8 @@ Github URL:	https://github.com/CommanderXanon/Xcoin
 ---------------------------------------------------------------
 
 Windows Download - https://mega.nz/file/cXxnRA6R#9FyBTRLxAVLCsEs9PgSwD92vPgIYaFoWzVduZBYIx3U
+
+Linux Download - https://mega.nz/file/cTJSVQLD#CU6sy5xxInYVqxoPXykIpeOa8NZooidc2mOinrJW7vo 
+
+
+
