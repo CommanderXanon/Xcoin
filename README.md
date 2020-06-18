@@ -17,7 +17,7 @@ Name: Xcoin
 
 Symbol: XCN
 
-Blockchain Launched: June 17, 2010
+Blockchain Launched: June 17, 2020
 
 Genesis Block Message: "Money now belongs to the people."  -- Commander X
 
