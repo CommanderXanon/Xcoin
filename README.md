@@ -40,3 +40,7 @@ Website URL: http://www.CommanderX.info
 Twitter: https://twitter.com/CommanderXanon
 
 Github URL:	https://github.com/CommanderXanon/Xcoin
+
+---------------------------------------------------------------
+
+Windows Download - https://mega.nz/file/cXxnRA6R#9FyBTRLxAVLCsEs9PgSwD92vPgIYaFoWzVduZBYIx3U
