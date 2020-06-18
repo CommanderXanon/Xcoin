@@ -5,7 +5,7 @@ June 18, 2020 - Mexico
 
 Xcoin is an experiment in private collectible crypto currency, and personal monetization. To begin, I pay homage to Satoshi Nakamoto - and the original White Paper. I stand by the principles of blockchain decentralization, immutability of the basic blockchain parameters (no forks) - and the notion that we are mere guardians of the math that make crypto currency function. What I hope to show with Xcoin is yet another way in which the democratization of money brought about by the RPC protocol has opened up new possibilities, and that RPC blockchain technology is flexible enough to be able to successfully create many different kinds of money in the same eco-system.
 
-Xcoin was not designed to be best at value transmission such as making online payments, etc. It is a slow and solid chain set up to be a store of monetary and cultural value over time, with trading between a few individuals and a support fan-base (The X followers). Therefore speed was not essential in the creation of this blockchain. The block reward begins at 5 XCN with difficulty targeting a block-time of 20 minutes average. The halvings will come every 20,000 blocks.
+Xcoin was not designed to be best at value transmission such as making online payments, etc. It is a slow and solid chain set up to be a store of monetary and cultural value over time, with trading between a few individuals and a support fan-base (The X followers). Therefore speed was not essential in the creation of this blockchain. The block reward begins at 5 XCN with difficulty targeting a block-time of 20 minutes average. The reward halvings will come every 20,000 blocks.
 
 Xcoin has a high scarcity factor, with only 200,000 Xcoins being mined over 22 years - which is the anticipated life-span of the blockchain (and the X, probably). Severe deflation will be avoided by the fact that Xcoin has an anticipated small and parochial user base, and there is only likely to be one merchant accepting Xcoin (me, for my books and writings). Xcoin value store will be very steady over time.
 
@@ -29,7 +29,7 @@ P2P port:  20430
 
 Starting Block Reward: 5 coins
 
-Block Halving: 20,000 blocks
+Block Reward Halving: 20,000 blocks
 
 Total Coin Supply: 200,000 coins
 
