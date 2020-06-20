@@ -47,6 +47,8 @@ Windows Download - https://mega.nz/file/cXxnRA6R#9FyBTRLxAVLCsEs9PgSwD92vPgIYaFo
 
 Linux Download - https://mega.nz/file/cTJSVQLD#CU6sy5xxInYVqxoPXykIpeOa8NZooidc2mOinrJW7vo 
 
+Mac OS Download - https://mega.nz/file/paoxRDYb#cLCWSK5zjdsxt30hyIYuaQXECYUvcpA6OeYZULaG5M4 
+
 Daemon Download - https://mega.nz/file/5bxVgD7K#XbajhKpnyW7sw-YFFaLSOsxBmeQEjY_gak8TgoZqmK4 
 
 
