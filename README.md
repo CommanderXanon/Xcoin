@@ -27,6 +27,8 @@ RPC port:  20429
 
 P2P port:  20430
 
+Algorithm: SHA-256
+
 Starting Block Reward: 5 coins
 
 Block Reward Halving: 20,000 blocks
